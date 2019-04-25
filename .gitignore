@@ -1,0 +1,8 @@
+*.DS_Store
+.vscode/*
+.vscode
+venv/
+fenv/
+__pycache__/
+node_modules/
+
